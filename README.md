@@ -1,4 +1,4 @@
-# Pet Match: información pública
+# Pet Crush: información pública
 
 Privacidad, términos y soporte de No More Games.
 
@@ -10,4 +10,4 @@ Contacto: nomoregames.developers@gmail.com
 
 Versión del contenido: 7 de septiembre de 2026.
 
-Estos archivos se generan desde la misma fuente de textos de la app. Este repositorio contiene únicamente documentación pública, sin código ni datos de cuentas de Pet Match.
+Estos archivos se generan desde la misma fuente de textos de la app. Este repositorio contiene únicamente documentación pública, sin código ni datos de cuentas de Pet Crush.

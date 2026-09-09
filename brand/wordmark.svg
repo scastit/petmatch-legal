@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-12 -34 432 121" role="img" aria-label="Pet Crush" style="color:#15120D"><g fill="none" stroke="currentColor" stroke-width="13" stroke-linecap="round" stroke-linejoin="round">
+        
+        <path d="M 0 80 V 20 H 20 A 15 15 0 0 1 20 50 H 0" />
+        
+        <path d="M 1 60 H 39 A 19 19 0 1 0 34.6 72.2" transform="translate(48 0)" />
+        
+        <g transform="translate(103 0)">
+          <path d="M 0 12 V 66 A 14 14 0 0 0 14 80 H 22" />
+          <path d="M -9 40 H 12" />
+        </g>
+        
+        <path d="M 44 26 C 38 21 31 20 24 20 C 8 20 0 33 0 50 C 0 67 8 80 24 80 C 31 80 38 79 44 74" transform="translate(150 0)" />
+        
+        <g transform="translate(212 0)">
+          <path d="M 0 80 V 41 M 0 59 C 0 46 11 37 24 42" />
+        </g>
+        
+        <path d="M 0 40 V 61 A 19 19 0 0 0 38 61 V 40 M 38 61 V 80" transform="translate(254 0)" />
+        
+        <path d="M 33 44 C 24 37 0 39 0 50 C 0 62 35 56 35 69 C 35 83 10 83 0 75" transform="translate(310 0)" />
+        
+        <path d="M 0 80 V 20 M 0 59 A 19 19 0 0 1 38 59 V 80" transform="translate(362 0)" />
+        
+        <path d="M 67 24 C 113 -40 227 -40 273 24" stroke-width="11" stroke="#FFC629" />
+      </g></svg>
