@@ -1,13 +1,13 @@
-# Pet Crush: información pública
+# Pet Crush — enlaces legales históricos
 
-Privacidad, términos y soporte de No More Games.
+Este repositorio está integrado en el proyecto principal **[scastit/pet-crush](https://github.com/scastit/pet-crush)** y se conserva archivado únicamente para mantener las URLs antiguas de GitHub Pages.
 
-- [Privacidad](https://scastit.github.io/petmatch-legal/privacidad.html)
-- [Términos](https://scastit.github.io/petmatch-legal/terminos.html)
-- [Ayuda y contacto](https://scastit.github.io/petmatch-legal/soporte.html)
+El mantenimiento de la app, el backend, el sitio y los textos legales se realiza en el repositorio principal. El historial previo de este repositorio también se integra allí.
 
-Contacto: nomoregames.developers@gmail.com
+## Documentos actuales
 
-Versión del contenido: 22 de septiembre de 2026.
+- [Privacidad](https://petcrush.cl/legal/privacidad.html)
+- [Términos](https://petcrush.cl/legal/terminos.html)
+- [Ayuda y contacto](https://petcrush.cl/legal/soporte.html)
 
-Estos archivos se generan desde la misma fuente de textos de la app. Este repositorio contiene únicamente documentación pública, sin código ni datos de cuentas de Pet Crush.
+Las cuatro páginas antiguas redirigen al sitio oficial. Si la redirección automática está desactivada en el navegador, muestran un enlace directo al documento correspondiente.
